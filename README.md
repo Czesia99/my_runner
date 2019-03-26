@@ -6,6 +6,7 @@ to run game :
 ./my_runner [file.txt] 
 the file must contain a b c or d letters,
 they represents different traps in game.
+
 in ressources/maps/ there is an exemple that you can try out.
 
 ./my_runner -h for more details.
