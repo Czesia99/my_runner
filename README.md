@@ -1,5 +1,5 @@
 # my_runner
-My second graphic project, a basic runner game.
+My second graphic project, a basic runner game in CSFML.
 
 to run game :
 
