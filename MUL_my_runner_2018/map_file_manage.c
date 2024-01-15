@@ -10,7 +10,7 @@
 int check_open(int a)
 {
     if (a < 0) {
-        write(2, "Invalid argument\n", 20);
+        write(2, "Invalid argument\n", 18);
         return (84);
     }
     return (0);
